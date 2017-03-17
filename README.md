@@ -2,6 +2,9 @@ This repo contains examples related to the expression problem.
 
 http://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/
 
+Problem: languages don't provide good tools to add both new types and new
+operations to an existing system without having to change existing code.
+
 ```
 OOP approach:
 
